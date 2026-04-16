@@ -2,6 +2,8 @@
 
 The rules of HTML that every device follows.
 
+THIS REPOSITORY IS UNDER CONSTRUCTION. SOME CONTENT MAY BE UNFINISHED.
+
 all devices work differently, and their browsers are similar, but there are some tiny 
 details to take into mind. For example, Linux Servers are case-sensitive.
 
