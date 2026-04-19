@@ -2,7 +2,7 @@
 
 The rules of HTML that every device follows.
 > \[!NOTE]
-> This repo is not finished. Wiki is coming soon.
+> This repo is not finished. Try posting on the wiki!
 
 all devices work differently, and their browsers are similar, but there are some tiny 
 details to take into mind. For example, Linux Servers are case-sensitive.
