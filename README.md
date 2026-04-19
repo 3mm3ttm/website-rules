@@ -41,5 +41,5 @@ to navigate to Error Pages.
 
 most web hosting services have their own 404 error page, but some, like WordPress, give you a not-found file that you can edit.
 
-[my website](trollfacegames.neocities.org), hosted on [Neocities](neocities.org), will give you a `not_found.html` that you can edit, but it only exists in the root
+[my website](https://trollfacegames.neocities.org), hosted on [Neocities](https://neocities.org), will give you a `not_found.html` that you can edit, but it only exists in the root
 directory.
