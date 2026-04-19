@@ -24,7 +24,7 @@ other services, it will be a bit harder.
 
 ### Apache Servers
 
-1. create a new file named `.htaccess` in the root directory.
+1. create a new `.htaccess` dotfile in the root directory.
 
 2. open the file in a text editor, and type `ErrorDocument 404 /not_found.html`.
 3. create your `/not_found.html` file in the root.
