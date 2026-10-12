@@ -43,3 +43,7 @@ most web hosting services have their own 404 error page, but some, like WordPres
 
 [my website](https://trollfacegames.neocities.org), hosted on [Neocities](https://neocities.org), will give you a `not_found.html` that you can edit, but it only exists in the root
 directory.
+
+# Making Custom Websites
+
+The way you make custom websites differs. Always. If you want your own free domain, the host you sign up with will likely force your domain name to be “domain.host.com” (not exactly but you get the idea.) If you do not want advertising from the host, then you have to pay for your custom domain. In some cases, the website forces you to link a server’s IP to the domain, and makes you verify it before notifying DNS servers of your domain’s existence. Some free services are [Google Sites](sites.google.com), or [Neocities](neocities.org). They both advertise in the domain name. You can also you GitHub itself to host websites. This repo is not a github.io website.
